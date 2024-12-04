@@ -1,8 +1,8 @@
 name: 'subhan' # string
 age: 17 # int
 status: on # bool
-weight: 135.67  # float
-
+weight: 135
+# float
 # primitive data types
 
 numbers: [1, 2, 3, 4]
@@ -31,8 +31,8 @@ server:
 Name : 'subhan'
 name : Ali
 
----
-Name : Ali
+
+Name : Ahmed
 
 # Key-value mapping indendation 
 
