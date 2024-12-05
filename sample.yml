@@ -113,3 +113,11 @@ production:
 
 Development: 
  <<: *defaults
+
+
+ game: [cricket, football, hockey, badminton]
+
+ cricket:
+   -bat
+   -ball
+   -helmet
